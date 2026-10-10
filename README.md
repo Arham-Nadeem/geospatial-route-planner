@@ -1,4 +1,3 @@
-\
 # Geospatial Route Planner
 
 A self-contained C++17 route-planning project that models a campus as a weighted geospatial graph and compares **Dijkstra's algorithm** with **A\*** for shortest-path routing.
